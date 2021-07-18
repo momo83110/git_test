@@ -1,1 +1,1 @@
-# git_test
+This is Monica's FIRST (hopefully successful) project!
